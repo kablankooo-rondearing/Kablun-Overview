@@ -5,13 +5,13 @@ Note that some things stated here will only be meant for the main repository, no
 
 ## Structure
 ### Repository
-``/frontend``: Where all the frontend source code is found
-``/frontend/README.md``: Information about the structure of frontend source
-``/frontend/web``: Directory for the website files frontend
-``/frontend/web/src``: The actual code of the website
-``/backend``: Where all the backend source code is found
-``/backend/README.md``: Information about the structure of backend source
-``/backend/api``: Directory for the API files backend
-``/backend/api/src``: The code for the API
+- ``/frontend``: Where all the frontend source code is found
+- ``/frontend/README.md``: Information about the structure of frontend source
+- ``/frontend/web``: Directory for the website files frontend
+- ``/frontend/web/src``: The actual code of the website
+- ``/backend``: Where all the backend source code is found
+- ``/backend/README.md``: Information about the structure of backend source
+- ``/backend/api``: Directory for the API files backend
+- ``/backend/api/src``: The code for the API
 
 There may be additional directories not stated, this just provides the initial context.
